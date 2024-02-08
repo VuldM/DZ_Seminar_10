@@ -1,0 +1,8 @@
+.carousel-control-prev-icon {
+  background-image: url("./img/icons_left.png");
+  background-color: yellow;
+}
+.carousel-control-next-icon {
+  filter: brightness(0) saturate(100%) invert(53%) sepia(96%) saturate(1167%)
+    hue-rotate(70deg) brightness(99%) contrast(92%);
+}
